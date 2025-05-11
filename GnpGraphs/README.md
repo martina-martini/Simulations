@@ -1,4 +1,6 @@
-Assignment Write a piece of code to simulate dynamic processes on graphs. The simulator should be able to:
+# Assignment 
+
+Write a piece of code to simulate dynamic processes on graphs. The simulator should be able to:
  
  i) generate in an efficient way a either G(n,p) graphs or regular grids (with order of 100k nodes);
  ii) handle in an efficient way the FES (resort on properties of Poisson processes).
@@ -9,3 +11,8 @@ Assignment Write a piece of code to simulate dynamic processes on graphs. The si
  
  Furthermore, for n=100k, p= 10ˆ-4 compare the empirical distribution of the degree with analytical predic
 tions. Build a q-q plot and execute a χ2 test
+
+# Results
+
+![perfect](https://github.com/user-attachments/assets/8b641f84-b98b-4d30-839e-f2254a1c8c4b)
+
